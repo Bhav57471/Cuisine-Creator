@@ -1,0 +1,150 @@
+[
+  {
+      "id": 1,
+      "title": "TELANGANA FOOD",
+      "image": "./Images/telangana.jpg"
+  },
+  {
+      "id": 2,
+      "title": "TAMILNADU FOOD",
+      "image": "./Images/tamilnadu.jpg"
+  },
+  {
+      "id": 3,
+      "title": "KERALA FOOD",
+      "image": "./Images/kerala.jpg"
+  },
+  {
+      "id": 4,
+      "title": "BENGALI FOOD",
+      "image": "./Images/bengali.jpg"
+  },
+  {
+      "id": 5,
+      "title": "MAHARASHTRIAN FOOD",
+      "image": "./Images/maharastrian.jpg"
+  },
+  {
+      "id": 6,
+      "title": "ODISHA FOOD",
+      "image": "./Images/odisha.jpg"
+  },
+  {
+      "id": 7,
+      "title": "SIKKIM FOOD",
+      "image": "./Images/sikkim.jpg"
+  },
+  {
+      "id": 8,
+      "title": "GOA FOOD",
+      "image": "./Images/goa.jpg"
+  },
+  {
+      "id": 9,
+      "title": "MANIPUR FOOD",
+      "image": "./Images/manipur.jpg"
+  },
+  {
+      "id": 10,
+      "title": "GUJARATI FOOD",
+      "image": "./Images/gujarati.jpg"
+  },
+  {
+      "id": 11,
+      "title": "BIHARI FOOD",
+      "image": "./Images/bihar.jpg"
+  },
+  {
+      "id": 12,
+      "title": "RAJASTHANI FOOD",
+      "image": "./Images/rajasthan.jpg"
+  },
+  {
+      "id": 13,
+      "title": "PUNJABI FOOD",
+      "image": "./Images/punjab.jpg"
+  },
+  {
+      "id": 14,
+      "title": "KARNATAKA FOOD",
+      "image": "./Images/karnataka.jpg"
+  },
+  {
+      "id": 15,
+      "title": "JAMMU & KASHMIR FOOD",
+      "image": "./Images/j&k.jpg"
+  },
+  {
+      "id": 16,
+      "title": "UTTAR PRADESH FOOD",
+      "image": "./Images/up.jpg"
+  },
+  {
+      "id": 17,
+      "title": "UTTARAKHAND FOOD",
+      "image": "./Images/uttarkhand.jpg"
+  },
+  {
+      "id": 18,
+      "title": "MADHYA PRADESH FOOD",
+      "image": "./Images/mp.jpg"
+  },
+  {
+      "id": 19,
+      "title": "CHHATTISGARH FOOD",
+      "image": "./Images/chattisgarh.jpg"
+  },
+  {
+      "id": 20,
+      "title": "ASSAM FOOD",
+      "image": "./Images/assam.jpg"
+  },
+  {
+      "id": 21,
+      "title": "ARUNACHAL PRADESH FOOD",
+      "image": "./Images/arunachapradesh.jpg"
+  },
+  {
+      "id": 22,
+      "title": "MEGHALAYA FOOD",
+      "image": "./Images/meghalaya.jpg"
+  },
+  {
+      "id": 23,
+      "title": "MIZORAM FOOD",
+      "image": "./Images/mizoram.jpg"
+  },
+  {
+      "id": 24,
+      "title": "NAGALAND FOOD",
+      "image": "./Images/nagaland.jpg"
+  },
+  {
+      "id": 25,
+      "title": "TRIPURA FOOD",
+      "image": "./Images/tripura.jpg"
+  },
+  {
+      "id": 26,
+      "title": "HARYANA FOOD",
+      "image": "./Images/haryana.jpg"
+  },
+  {
+      "id": 27,
+      "title": "HIMACHAL PRADESH FOOD",
+      "image": "./Images/himachalpradesh.jpg"
+  },
+  {
+      "id": 28,
+      "title": "ANDHRA PRADESH FOOD",
+      "image": "./Images/ap.jpg"
+  },
+  {
+    "_commentedOut": {
+      "id": 29,
+      "title": "DELHI FOOD",
+      "image": "./Images/delhi.jpg"
+    }
+  }
+  
+]

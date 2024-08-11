@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    max-width: 100%;
+}
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 29px 23px;
+    text-decoration: none;
+    color: orange;
+    font-size: 1.2rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  li a:hover {
+    background-color: rgb(245, 231, 205);
+  }
+  img{
+    width: auto;
+    height: 80px;
+  }

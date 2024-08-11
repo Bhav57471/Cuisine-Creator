@@ -1,0 +1,165 @@
+/* Main Sections */
+.firstsection {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  flex-wrap: wrap;
+}
+
+.leftsection {
+  max-width: 600px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 100px 0;
+  padding-left: 50px;
+  text-align: start;
+  font-size: 1.2rem;
+  flex: 1;
+}
+
+.rightsection img {
+  height: 480px;
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
+
+/* Buttons */
+.button, .github {
+  background-color: rgb(233, 149, 41);
+  border-color: rgb(243, 144, 13);
+  border-radius: 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  margin: 10px;
+  display: inline-block;
+  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.button:hover, .github:hover {
+  background-color: #acd0e0;
+  border-color: #e082cc;
+}
+
+.text {
+  color: white;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Outer Card */
+.outer-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  background-color: rgba(248, 166, 59, 0.952);
+  flex-direction: column;
+  text-align: center;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 1024px) {
+  .firstsection {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .leftsection {
+    padding-left: 20px;
+    margin: 50px 0;
+    text-align: center;
+  }
+
+  .rightsection img {
+    height: auto;
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .leftsection {
+    padding-left: 10px;
+    margin: 20px 0;
+  }
+
+  .button, .github {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .leftsection {
+    padding-left: 5px;
+    margin: 10px 0;
+  }
+
+  .button, .github {
+    font-size: 0.7rem;
+    padding: 0.3rem 0.6rem;
+  }
+
+  .outer-card {
+    padding: 10px;
+    margin: 10px;
+  }
+}
+
+/* Section Styling */
+.section {
+  padding: 60px;
+}
+
+.harvest {
+  font-size: 3rem;
+  line-height: 1.2;
+  text-align: center;
+  font-weight: bold;
+}
+
+@media (max-width: 1024px) {
+  .harvest {
+    font-size: 2.5rem;
+    line-height: 1.3;
+  }
+}
+
+@media (max-width: 768px) {
+  .harvest {
+    font-size: 2rem;
+    line-height: 1.4;
+  }
+}
+
+@media (max-width: 480px) {
+  .harvest {
+    font-size: 1.5rem;
+    line-height: 1.5;
+  }
+}
+
+.card2 {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.Leftsection {
+  max-width: 600px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 100px 0;
+  font-size: 1.3rem;
+  flex: 1;
+}
+
+.Rightsection img {
+  height: 480px;
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}

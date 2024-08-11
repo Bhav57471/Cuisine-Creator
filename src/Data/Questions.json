@@ -1,0 +1,27 @@
+[
+    {
+      "question": "How do I find a recipe on Cuisine Creator?",
+      "answer": "Just head over to the 'Recipes' page. You can browse through the curated collection or use our search functionality to find something specific. Whether you're after a comfort food classic or a daring new dish, our library is at your fingertips."
+    },
+    {
+      "question": "How can I contribute a recipe to Cuisine Creator?",
+      "answer": "Simply submit a pull request through our GitHub repository. Make sure to follow the recipe format guidelines with Astro's collections and markdown files. Once reviewed, your recipe will be added to Cuisine Creator."
+    },
+    {
+      "question": "Is coding knowledge required for contributing?",
+      "answer": "Basic knowledge of Git and Markdown formatting is helpful for submitting recipes. However, we've made our guidelines clear and accessible to guide you through the process. If you need help, our community is always here to assist!"
+    },
+    {
+      "question": "Can I save my favorite recipes?",
+      "answer": "Absolutely! You can bookmark your favorite recipes for quick access during your future visits. Just click the bookmark icon on any recipe page to save it. All your bookmarked recipes will be available under the 'Saved Recipes' section, which you can view anytime. Your favorites are saved locally in your browser, so there's no need for an account or sign-up."
+    },
+    {
+      "question": "What makes Cuisine Creator different from other recipe websites?",
+      "answer": "Cuisine Creator is a no-nonsense, zero-ad recipe database that's powered by the culinary community. It's all about the content — crisp, clear, and straight to the plate. Plus, our open-source approach means anyone can contribute and access recipes without any commercial gatekeeping."
+    },
+    {
+      "question": "Is Cuisine Creator free to use?",
+      "answer": "Yes, Cuisine Creator is completely free and accessible to everybody. There are no hidden fees or premium content — our goal is to make cooking knowledge universally available."
+    }
+  ]
+  

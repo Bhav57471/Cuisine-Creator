@@ -1,0 +1,761 @@
+
+{
+  "1": [
+    {
+      "id": 1,
+      "title": "Hyderabadi Biryani",
+      "description":"",
+      "details": "Hyderabadi chicken biryani is one of the most popular biryanis in India. It’s the cooking method that makes it so special and amazingly delicious. This classic biryani is definitely a ‘must’ addition to your recipe repertoire.",
+      "ingredients": ["Rice", "Chicken", "Spices"],
+      "image": "/Images/briyani.jpg",
+      "instructions": "Step-by-step instructions..."
+    },
+    {
+        "id": 2,
+        "title": "Hyderabadi Mutton Biryani",
+        "image": "/Images/muttonbriyani.jpg",
+        "description":"",
+        "details": "This recipe will help you make the most AMAZING Mutton Biryani. With this recipe, nail that 3-ingredient marinade for the mutton, learn how to make the mutton masala for biryani, and how to get the biryani layers right! With this easy mutton biryani recipe handy, it’s a biryani feast any day of the year!",
+        "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+    },
+    {  
+      "id": 3,
+      "title": "Ragi Sangati",
+      "image": "/Images/ragimudda.jpg",
+      "description":"",
+      "details": "Ragi Mudde are healthy balls made from finger millet flour and water. They are a delicacy and a staple food mainly in Karnataka and in some parts of Tamil Nadu and Andhra Pradesh. These delicious and nutritious balls could be considered the original “protein bites,” intended to keep farmers and working folks full during the day.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+    }
+  ],
+  "2": [
+    {
+      "id": 1,
+      "title": "Chettinad chicken curry",
+      "image": "/Images/chettinadchicken.jpg",
+      "description":"",
+      "details": "Chettinad chicken curry is one of the best ways to cook chicken in a blend of all the authentic Chettinad spices. This aromatic dish is the flag bearer of the Chettinad cuisine made of freshly ground spices along with generous portions of shallots, tomatoes, ginger, chillies and coconut. The spicy and fiery Chettinad chicken curry is served with ghee rice, idli, dosa, idiyappam, appam, etc.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": " Kuzhi Paniyaram",
+      "image": "/Images/chettinadpunudulu.jpg",
+      "description":"",
+      "details": " Kuzhi Paniyaram is a popular snack in Tamil Nadu which is also served as breakfast/dinner with sambar or chutney as a side dish. There is no better way to put the leftover idli/dosa batter to better use than by making super soft and fluffy paniyarams. The authentic Chettinad Kuzhi Paniyaram is easy to make, and is sure to be a favourite evening snack for children.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": " Urulai roast",
+      "image": "/Images/urulairoast.jpg",
+      "description":"",
+      "details": "The flavourful and spicy  Urulai roast or potato fry is an easy and quickly-made side dish that has all the authentic flavours found in Chettinad recipes. Urulai roast goes well with almost anything but is best eaten with rice in South Indian meals. The dish is made using freshly-ground spices and elevates any ordinary meal to a delightful experience.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  }
+  ],
+  "3": [
+    {
+      "id": 1,
+      "title": "Appam",
+      "image": "/Images/appam.jpg",
+      "description":"",
+      "details": "Appam (also known as “palappam”) are tasty, lacy and fluffy pancakes or hoppers from the Kerala cuisine that are made from ground, fermented rice and coconut batter. Thin and crispy around the edges with soft fluffy center appam taste delicious when paired with vegetable stew for a hearty vegetarian breakfast. They also just so happen to be gluten-free and vegan.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Kerala Sambar",
+      "image": "/Images/keralasambar.jpg",
+      "description":"",
+      "details": "Kerala sambar is a delicious, flavorsome and tasty variation of the South Indian Sambar made with various mix vegetables, lentils, and a roasted coconut and spices paste. Makes for a healthy meal paired with some steamed rice or Idli or Dosa.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Malabar Paratha",
+      "image": "/Images/parathas.jpg",
+      "description":"",
+      "details": "Parathas are one of the most popular and loved accompaniments in the Indian flatbread scene. And just like any other curry, lentil or rice-based dish with many variations to it, even the world of parathas has distinct recipes, from region to region. Just like this Parotta Recipe, which can be considered as the South Indian version of the North Indian Lachha Paratha, which simply means a layered paratha. It is a flaky, layered, unleavened flatbread, also known as the Malabar Paratha or Kerala Paratha. This recipe is also egg free, and sans yeast.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "4": [
+    {
+      "id": 1,
+      "stateId": 4,
+      "title": " Ilish Macher Jhol",
+      "image": "/Images/bengalifishcurry.jpg",
+      "description":"",
+      "details": "One of the much-favoured fishes in the region, Hilsa or ilish fish curry is something that you have got to try your hands on. The pungent smelling curry prepared with Nigella seeds and chilli to give it the required balance that makes it so perfect. You have got to try this one as it one of the staple food of West Bengal.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "stateId": 4,
+      "title": " Sandesh",
+      "image": "/Images/sandesh.jpg",
+      "description":"",
+      "details": "The most popular sweet from the Bengali state, this dish is made of khoya, a version of condensed milk and is heavenly in taste. This sweet is neither overly sweet thus allowing people with a non-sweet tooth to enjoy too. One should definitely try this delectable West Bengal food item.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "stateId": 4,
+      "title": "Mishti Doi",
+      "image": "/Images/mishtidoi.jpg",
+      "description":"",
+      "details": "Mishti Doi is a sweetened yoghurt dish that is served at the end of supper and serves as a sweet dish. Though served all around the country now, it was initially made famous by Bengal. Try it if you have a sweet tooth.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "5": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "6": [
+    {
+      "id": 1,
+      "title": "Enduri pitha",
+      "image": "/Images/enduripitha.jpg",
+      "description":"",
+      "details": "Enduri pitha is a variety of pitha made using a fermented batter of ground rice and urad dal. Enveloped in fresh turmeric leaves, it has a stuffing of grated coconut, jaggery and spices. Traditionally, it is steamed in wide-mouthed earthen pots called athara handi. A frame made with twigs is placed inside the pot above the level of the water, and the pithas are placed on top of this frame to be steamed.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Kakharu Phula Bhaja",
+      "image": "/Images/kakharuPhulaBhaja.jpg",
+      "description":"",
+      "details": "This is not exactly a main course dish but a snack. Kakharu Phula Bhaja translates to crunchy pumpkin flower fritters and you will find them in some street food stalls all around Odisha.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Pakhala bhata",
+      "image": "/Images/pakhalabhata.jpg",
+      "description":"",
+      "details": "Pakhala bhata is a special dish relished by almost every household in Odisha. It is prepared in a unique way and the taste is quite amazing. To make pakhala bhata, cooked rice is soaked in a mixture of sour curd, cumin seeds, mint leaves, coriander leaves and water, and left overnight. The same is relished the next day with fried fish, roasted vegetables, potatoes, papad and raw onions. ",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "7": [
+    {
+      "id": 1,
+      "title": " Momos (Dumplings)",
+      "image": "/Images/momos.jpg",
+      "description":"",
+      "details": "Momos are the lifeline of Sikkim. Momos are steamed buns with a filling. It typically consists of two parts - the cover and the filling. The cover is made of dough of white flour and water. Sometimes yeast or baking soda is also added to the dough to enhance the texture of the momos.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Thukpa or Gya Thuk",
+      "image": "/Images/thukpa.jpg",
+      "description":"",
+      "details": "Thukpa is a kind of noodle soup of Tibetan origin that has found its way to being one of the most loved food in Sikkim. One can find both vegetarian and chicken versions of the dish. One can find almost every kind of locally grown vegetable in this soup, but the most common ones are carrots, bell peppers, spinach, cauliflower and celery.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": " Sha Phaley",
+      "image": "/Images/shaphaley.jpg",
+      "description":"",
+      "details": "Bread stuffed with ground beef and cabbage made into semi-circles and then deep-fried is everything that you need to know about this famous food of Sikkim. Crispy on the outside and soft and juicy on the inside, this is what you get when you take the first bite into the golden fried dumpling. ",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "8": [
+    {
+      "id": 1,
+      "title": "Goan Fish Curry",
+      "image": "/Images/goafishcurry.jpg",
+      "description":"",
+      "details": "The Goan community considers the Xitti Kodi or Goan fish curry as a crucial part of their staple diet. This dish is a delectable combination of various aromatic spices and grated coconut, infused with the tangy flavor of raw mango.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Ambot Tik",
+      "image": "/Images/ambottik.jpg",
+      "description":"",
+      "details": "Ambot Tik is a Goan dish influenced by Portuguese cuisine. ‘Ambot’ means sour and ‘tik’ means spicy. We use red chilies (Kashmiri) to add spice to the dish and Kokum (Garcinia indicia) to make the dish taste sour. We dice Shark fish and toss it with onions, tomatoes, and masala.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Feijoada ",
+      "image": "/Images/feijoada.jpg",
+      "description":"",
+      "details": "This dish is a stew of red beans and pork. Goan feijoada is a Portuguese influenced recipe. Salted pork, masala, and red beans are combined and fried to prepare this dish. Coconut milk may be added instead of water for the gravy as coconut milk will add a unique flavor and give a thicker consistency. Goan feijoada is served with rice or pois.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "9": [
+    {
+      "id": 1,
+      "title": "Chak Hao Kheer",
+      "image": "/Images/blackricepudding.jpg",
+      "description":"",
+      "details": "Chak Hao Kheer is a classic Manipuri style black rice pudding. Very few basic ingredients goes into dishing out this traditional dessert. In this recipe, I have used the pressure cooking method to reduce the cooking time. However, you can always cook it in the traditional way in an open pan. Both ways it tastes just divine.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Soya Thongba",
+      "image": "/Images/soyathongba.jpg",
+      "description":"",
+      "details": "A Manipuri curry prepared with soy chunks, potatoes, and green peas. Thongba means curry and soya Thongba is soy chunks curry. All you need to spice up the gravy is green chili, some ginger garlic paste, and cumin seeds. I love it that it’s simple and uses minimal ingredients. There is no chilli powder and no tomatoes in this dish. The beautiful yellow of the curry is from the turmeric and milk in it.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Kelli Chana",
+      "image": "/Images/kellichana.jpg",
+      "description":"",
+      "details": "Manipuri Kelli Chana Recipe: A delicious, full of flavour snack to relish when hunger pangs trike, Manipur Kelli Chana is replete with the goodness of chickpeas too.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "10": [
+    {
+      "id": 1,
+      "title": "Dhokla",
+      "image": "/Images/dhokla.jpg",
+      "description":"",
+      "details": "Dhokla is an easy and healthy steamed breakfast or a snack recipe that is made using millet and split black gram. This dhokla can be enjoyed as a meal, packed in your kid’s lunch box or good as travel food or as a party appetizer.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Fafda",
+      "image": "/Images/fafda.jpg",
+      "description":"",
+      "details": "Gujarati vanva or fafda is the most popular traditional Gujarati snack made during Diwali. It is a crispy, crunchy snack made with gram flour (besan), urad dal flour, and common spices. It is easy to make and store in an airtight container for up to a week after frying.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Thepla",
+      "image": "/Images/thepla.jpg",
+      "description":"",
+      "details": "Thepla is a traditional bread of Gujarat. It has whole wheat and is a healthy recipe. I Have used methi here, you could make plain thepla as well. It is ideal to take along while travelling, as it remains good for 10 days. You could serve it for breakfast, as snacks or for dinner.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "11": [
+    {
+      "id": 1,
+      "title": "Litti chokha ",
+      "image": "/Images/littichoka.jpg",
+      "description":"",
+      "details": "Litti chokha or Batti chokha or Bhauri is one of the most popular dishes of Bihar and Uttar Pradesh. The baked whole wheat balls are stuffed with flavorful sattu or roasted gram flour filling and I am sure you are going to fall in love with it from the first bite itself. Sattu also called Makuni or Roasted Gram Flour is the main ingredient of Bihari Litti Recipe. ",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Dal Pitha",
+      "image": "/Images/dalpitha.jpg",
+      "description":"",
+      "details": "Bihari Dal Pitha Recipe (Traditional Bihari Delicacy) is a popular rice flour dumplings in Bihari Cuisine. Pithas are either stuffed with sweet or spicy filling. There are different varieties of Pithas. Bihari Dal Pitha is prepared using fresh rice flour and spicy masala lentil filling. The speciality of this dish is that it is vegan, gluten free and steamed.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Kadhi Bari",
+      "image": "/Images/kadhibari.jpg",
+      "description":"",
+      "details": "Bihari Style Kadhi Bari Recipe is a popular dish from Bihar. Kadhi is a yoghurt-based stew that is made by combining yoghurt and gram flour and then seasoning with a few aromatic spices. Pakoras made from gram flour are dipped in kadhi. Serve with jeera rice as a lunch or dinner dish.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "12": [
+    {
+      "id": 1,
+      "title": "Besan Bhari Mirch",
+      "image": "/Images/BesanBhariMirch.jpg",
+      "description":"",
+      "details": "Besan Bhari Mirch (Bharwa Mirch) is a traditional Rajasthani recipe in which large chilies are stuffed with a spiced chickpea flour mixture and pan-fried until softened and slightly crispy.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Makki Ka Dhokla",
+      "image": "/Images/MakkiKaDhokla.jpg",
+      "description":"",
+      "details": "Makki Ka Dhokla is a delicious Rajasthani dish made using Makki Ka Atta (Maize Flour). It is a winter delicacy and is enjoyed as a main course with kadhi or as a snack (vegetarian, can be easily made gluten-free).",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Malpua",
+      "image": "/Images/Malpua.jpg",
+      "description":"",
+      "details": "Malpua is basically fried pancake dunked in sugar syrup This traditional Indian sweet is crispy from the edges and soft at the center. Learn how to make it at home.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "13": [
+    {
+      "id": 1,
+      "title": "Paneer Butter Masala",
+      "image": "/Images/paneerbuttermasala.jpg",
+      "description":"",
+      "details": "Paneer Butter Masala is one of India’s most popular paneer recipes, and with good reason! Indian cottage cheese cubes are smothered in a creamy, lightly spiced tomato sauce that is downright delicious. With my video and step-by-step guide you can easily make this restaurant style Paneer Butter Masala recipe at home!",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Palak Paneer",
+      "image": "/Images/palakpaneer.jpg",
+      "description":"",
+      "details": "Palak Paneer is one of the most popular Indian dish made with succulent Paneer cubes (Indian cottage cheese) in a smooth spinach sauce. I share two ways to make this healthy dish – a homestyle version and a restaurant style version with a charcoal smoking method (brought back on reader’s demand). Both the vibrant green palak paneer recipes are made with fresh spinach leaves (palak in Hindi), aromatics, herbs and spices. ",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Besan Ladoo",
+      "image": "/Images/besanladoo.jpg",
+      "description":"",
+      "details": "Besan Ladoo is a popular Indian sweet made from gram flour a.k.a besan, powdered sugar and clarified butter (ghee). Also known as Besan ke Laddu these are round sweet balls made by roasting gram flour and ghee together, and then adding sugar to make a thick pasty dough – that is then formed into delicious, melt-in-your-mouth balls. ",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "14": [
+    {
+      "id": 1,
+      "title": "Neer Dose",
+      "image": "/Images/neerdosa.jpg",
+      "description":"",
+      "details": "Thin yet fluffy, lacy and light, this Neer Dosa recipe yields a breakfast that you’re sure to love. Also known as neer dose, these super soft and tasty Indian crepes are made with a handful of ingredients – rice, water and salt. They also just so happen to be naturally gluten free and vegan, making them the perfect menu item for your weekend brunch.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Mangalore buns",
+      "image": "/Images/mangalorebuns.jpg",
+      "description":"",
+      "details": "Mangalore buns are sweet fried bread made with mashed bananas, flour, sugar and spiced with a touch of ground cumin. These sweet banana buns or poori as they are known is a specialty dish from the Mangalore region in Karnataka.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Mysore Pak",
+      "image": "/Images/mysorepak.jpg",
+      "description":"",
+      "details": "Rich, luxurious, fudge-like Mysore Pak is a famous Indian treat that is simultaneously buttery and nutty, and will simply melt in your mouth. Made with just three ingredients – gram flour (besan), ghee and sugar – this Ghee Mysore Pak recipe is a perfect introduction to candy-making.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "15": [
+    {
+      "id": 1,
+      "title": "Kashmiri Rajma Masala",
+      "image": "/Images/KashmiriRajmaMasala.jpg",
+      "description":"",
+      "details": "Kashmiri Rajma Masala is a delicious yogurt-based curry made from red kidney beans popular in Kashmiri households. You can serve it for lunch or dinner with steamed rice, jeera rice, or lightly spiced pulao.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Kashmiri Methi Chaman",
+      "image": "/Images/MethiChaman.jpg",
+      "description":"",
+      "details": "Kashmiri Methi Chaman Recipe is a traditional Kashmiri dish made with paneer and methi leaves and is an absolute delight. Get this Kashmiri taste on your dining table with this recipe. Here is how to make it.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Kashmiri Pulao",
+      "image": "/Images/KashmiriPulao.jpg",
+      "description":"",
+      "details": "Kashmiri Pulao is a delicious rice preparation where rice is cooked in milk and is loaded with dry fruits and fruits. Saffron is added to it too which gives a very nice fragrance to this pulao. Here is how to make it in traditional and restaurant-style.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "16": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "17": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "18": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "19": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "20": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "21": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "22": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "23": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "24": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "25": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "26": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "27": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "28": [
+    {
+      "id": 1,
+      "title": "Mamidikaya Pappu",
+      "image": "/Images/mamidikayapappu.jpg",
+      "description":"",
+      "details": "This Mamidikaya Pappu or Mango Dal from the Andhra Cuisine is one such delicate, yet delicious preparation.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Mirchi Bajji",
+      "image": "/Images/stuffedmirchibajji.jpg",
+      "description":"",
+      "details": "This Mirchi Bajji is also a popular one at my home and I make it on many occasions. Since, there’s no heat from the chilies in this recipe, it is liked by one and all. There are many variations, like the Mirchi Vada and Mirchi Pakoda famous in Northern and Western India. But the Chilli Bajji is quite a distinct one from Southern India.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Guti vankaya kura(Egg plant curry)",
+      "image": "/Images/guttivankayakura.jpg",
+      "description":"",
+      "details": "Guti vankaya kura is a stuffed eggplant dish from the Andhra cuisine. Here the stuffing is made from a mix of desiccated coconut, peanuts and spices, which is ground finely. Small tender brinjals are stuffed with this ground masala and then cooked. A bit of tamarind pulp is added to the gravy for a faint sour taste. This recipe is vegan as well as gluten free.",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ],
+  "29": [
+    {
+      "id": 1,
+      "title": " Puran Poli",
+      "image": "/Images/puranpoli.jpg",
+      "description":"",
+      "details": "This dish is loved by the Marathi people. Basically, this dish is a sweet version of a paratha. The puran poli's stuffing consists of jaggery and chana dal. This filling is put inside a ball of dough and rolled out as a paratha. Every Maharashtrian home prepares this delicious delicacy for celebratory occasions.",
+      "instructions": "Step-by-step instructions to make Pesarattu..."
+  },
+  {
+      "id": 2,
+      "title": "Rassa (Non-Veg Curry)",
+      "image": "/Images/rassa.jpg",
+      "description":"",
+      "details": "One of the most popular non-vegetarian foods in Maharashtra is rassa. Rassa is a special kind of curry that is used to make fish, mutton, and chicken. It is famous for having a spicy flavour. Having its roots in Kolhapur, it is now highly popular in Maharashtra. It is served with chapatis, rice, and chutney. If you enjoy non-vegetarian food, you should try this well-known Maharashtrian dish.",
+      "instructions": "Step-by-step instructions to make Hyderabadi Biryani..."
+  },
+  {
+      "id": 3,
+      "title": "Shankarpali",
+      "image": "/Images/shankarpali.jpg",
+      "description":"",
+      "details": "Shankarpali is usually a sweet snack but its savory variant is also loved by many.  Popularly known as namak-para in North India or tukdi in some parts of South India, the savory snack replaces sugar with hot spices and ajwain (carom seeds).",
+      "instructions": "Step-by-step instructions to make Appam..."
+  }
+  ]
+}

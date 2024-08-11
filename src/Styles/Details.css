@@ -1,0 +1,105 @@
+/* Container for the entire dish details */
+.detail-details {
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: left;
+  }
+  
+.details-container {
+    display: flex;
+    justify-content: center; /* Center the card horizontally */
+    padding: 20px; /* Optional: Add padding around the container */
+  }
+  
+  .detail-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin: 20px;
+    width: auto; /* Width of the card will adjust based on the image width */
+    text-align: center; /* Center text and inline elements within the card */
+  }
+  
+  .detail-card img {
+    width: 100%; /* Ensure the image takes up the full width of the card */
+    height: 30rem; /* Fixed height for the image */
+    object-fit: cover; /* Ensures the image covers the container while maintaining aspect ratio */
+    display: block; /* Remove extra space below the image */
+  }
+  
+  
+  
+  /* Instructions container */
+  .instructions-container {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  /* Step-by-step view */
+  .step-by-step {
+    margin-bottom: 20px;
+  }
+  
+  .navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .navigation-buttons button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .navigation-buttons button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .navigation-buttons button:not(:disabled):hover {
+    background-color: #0056b3;
+  }
+  
+  /* All steps view */
+  .all-steps {
+    text-align: left;
+  }
+  
+  .all-steps ol {
+    padding-left: 20px;
+  }
+  
+  .all-steps button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .all-steps button:hover {
+    background-color: #218838;
+  }
+  
+  .instructions-header {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+  
+  .instructions-header .bookmark-icon {
+    margin-left: 310px; /* Adjust the margin to set the gap */
+  }
+  
